@@ -10,6 +10,6 @@ if($senha="senha") echo"liberado"
 
 //teste
 
-
+//arrumando sistema de login
 
 ?>
